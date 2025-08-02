@@ -13,6 +13,9 @@ No description provided for this project.
 - Utilizes Tailwind CSS for styling
 - Includes the tailwindcss-textshadow plugin
 
+##Screen shot
+![Screenshot](assets/screenshot.png)
+
 ## Installation
 
 To get started with the React-project, follow these steps:
