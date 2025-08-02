@@ -25,6 +25,7 @@ To get started with the React-project, follow these steps:
 2. Install dependencies:
    ```bash
    npm install
+   npm install tailwindcss @tailwindcss/vite
    ```
 
 ## Usage
