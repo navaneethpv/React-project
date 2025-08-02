@@ -13,8 +13,8 @@ No description provided for this project.
 - Utilizes Tailwind CSS for styling
 - Includes the tailwindcss-textshadow plugin
 
-##Screen shot
-![Screen-shot](assets/screenshot.png)
+## Screenshot
+![Screen-shot](assets/screen-shot.png)
 
 ## Installation
 
