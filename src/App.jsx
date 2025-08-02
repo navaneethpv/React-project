@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="flex justify-center items-center w-screen h-screen  bg-[url('public/Images/nordwall3.jpg')] bg-cover" >
-        <div className="flex bg-amber-300">
+        <div className="flex">
           <Content />
           <Login />
         </div>
