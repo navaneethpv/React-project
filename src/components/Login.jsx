@@ -1,7 +1,7 @@
 export default function Login() {
   return (
     <>
-      <div className="flex flex-col min-w-120 bg-white/30 backdrop-blur-xl rounded-xl">
+      <div className="flex flex-col min-w-120 bg-white/30 backdrop-blur-xl rounded-br-xl rounded-tr-xl">
         <h1 className="text-5xl text-white font-serif font-bold text-center mt-10 text-shadow-sm text-shadow-gray-500">
           Login
         </h1>
