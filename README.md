@@ -14,7 +14,7 @@ No description provided for this project.
 - Includes the tailwindcss-textshadow plugin
 
 ##Screen shot
-![Screenshot](assets/screenshot.png)
+![Screen-shot](assets/screenshot.png)
 
 ## Installation
 
