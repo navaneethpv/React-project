@@ -9,13 +9,13 @@ export default function Login() {
           <form className="flex flex-col justify-center items-start mt-10">
             <label className="p-2 ml-5 text-lg font-medium text-white text-shadow-gray-500 text-shadow-sm">Username</label>
             <input
-              className="border-3 text-white font-mono border-white px-13 py-1.5 ml-6 rounded-full placeholder:text-white/60 placeholder:font-medium placeholder:font-sans"
+              className="border-3 text-white font-mono border-white px-13 py-1.5 ml-6 rounded-full placeholder:text-white/60 placeholder:font-medium placeholder:font-sans focus:outline-blue-100"
               type="text"
               placeholder="Enter user name"
             />
             <label className="p-2 ml-5 text-lg font-medium text-white text-shadow-gray-500 text-shadow-sm mt-5">Password</label>
             <input
-              className="border-3 text-white font-mono border-white px-13 py-1.5 ml-6 rounded-full placeholder:text-white/60 placeholder:font-medium placeholder:font-sans"
+              className="border-3 text-white font-mono border-white px-13 py-1.5 ml-6 rounded-full placeholder:text-white/60 placeholder:font-medium placeholder:font-sans focus:outline-blue-100"
               type="password"
               placeholder="Enter password"
             />
