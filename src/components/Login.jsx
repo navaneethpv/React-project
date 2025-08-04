@@ -11,13 +11,13 @@ export default function Login() {
             <input
               className="border-3 text-white font-mono border-white px-13 py-1.5 ml-6 rounded-full placeholder:text-white/60 placeholder:font-medium placeholder:font-sans focus:outline-blue-100"
               type="text"
-              placeholder="Enter user name"
+              placeholder="Enter user name" required
             />
             <label className="p-2 ml-5 text-lg font-medium text-white text-shadow-gray-500 text-shadow-sm mt-5">Password</label>
             <input
               className="border-3 text-white font-mono border-white px-13 py-1.5 ml-6 rounded-full placeholder:text-white/60 placeholder:font-medium placeholder:font-sans focus:outline-blue-100"
               type="password"
-              placeholder="Enter password"
+              placeholder="Enter password" required
             />
             <button className="border-1 border-white/50 from text-white/90 px-30 py-1.5 ml-8 mt-10 rounded-full text-lg font-bold font-mono bg-gradient-to-r from-red-400 to-orange-300 shadow-sm shadow-black hover:cursor-pointer hover:from-red-500 hover:to bg-orange-500 hover:text-amber-100 transition-all duration-200 ease">
               Login
